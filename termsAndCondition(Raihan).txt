@@ -1,0 +1,40 @@
+<html>
+  <body>
+    <p> All rentals are subject to the terms and conditions on the rental agreement. Vehicle range and models may vary from time to time.</p></br>
+
+<p>Rates Inclusive Of :</p></br>
+
+<p>* Unlimited Kilometres (unless otherwise specify)</p>
+<p>* Replacement Vehicle</p>
+<p>* Road Tax</p>
+
+</br>
+
+<p>Rates Exclude Of :</p></br>
+
+<p>* Fuel</p>
+<p>* Delivery, Collection and Re-Positioning charges</p>
+<p>* Personal Accident Insurance (PAI)</p>
+<p>* Tolls, Parking and Summons</p>
+<p>* Non Waiveable Excess</p>
+<p>* Waiting Fee</p>
+<p>* Other Miscellaneous charges ie. Baby Seat, Additional Driver, GPS, Excess Hours</p></br>
+
+<p>Note:</p></br>
+
+<p>Driving License:</p>
+<p>The Hirer must be at least 23 years old. The driver’s license must be valid and available for our view before the vehicle is rented.</p></br>
+
+<p>Rental Duration:</p>
+<p>Any changes to the above, will invalidate the rate. Rates may vary due to public and school holidays & subject to availability.</p></br>
+
+<p>Restriction:</p>
+<p>Vehicle must be returned to the same pickup location.</p></br>
+
+<p>Payment:</p>
+<p>Cash, Cheque and Online Credit Cards are accepted. Whatever the payment method, funds must be cleared in our account before commencement of rental.</p></br>
+
+<p>All JM cars are strictly prohibited from being driven into Singapore & Thailand:</p>
+<p>Collision Damage Reduction on JM vehicles only applies within Peninsular Malaysia.</p>
+  </body>
+</html>
