@@ -1,0 +1,233 @@
+<html>
+	<head>
+		<title>Welcome To BARA!</title>
+		<style>
+			table.top, table.nav{
+				align:center;
+				opacity:1;
+				width:100%;
+			}
+			a.nav {
+				border:3px solid white;
+				border-top-color:black;
+				border-bottom-color:black;
+				display:block;
+				width:200px;
+				color:white;
+				text-align: center;
+				
+			}
+			
+			table {
+				font-family:century gothic;
+			}
+			
+			input {
+				font-family:century gothic;
+			}
+			
+		</style>
+	<head>
+
+	<body>
+		<table class=top>
+			<tr>
+				<td>
+					<marquee behavior="scroll" onmouseover=this.stop() onmouseout=this.start() scrollamount=15 ><a href="index.html" ><img src="Image/toplogo.png" /></a><marquee>
+				</td>
+			</tr>
+		</table>
+	
+	
+		<table bgcolor="black" >
+			<tr>
+				<td width=20% >
+					&nbsp
+				</td>
+				<td width=60% >
+					<table>
+						<tr width=100%>
+							<td>
+								<a href=index.html class=nav >Home</a>
+							</td>
+							<td>
+								<a href=search.html class=nav >Search Order</a>
+							</td>
+							<td>
+								<a href=tac.html class=nav >T & C</a>
+							</td>
+							<td>
+								<a href=aboutBara.html class=nav >About BARA</a>
+							</td>
+						<tr>
+					</table>
+				</td>
+				<td width=20% >
+					&nbsp
+				</td>
+			</tr>
+		</table>
+		<br/>
+		<table>
+			<tr>
+				<td>
+					<fieldset>
+						<legend><big><big>Reserve Your Car Now</big></big></legend>
+								<form name=pickupDate >
+									<table>
+										<tr>
+											<td colspan=2>
+												&nbsp
+											</td>
+										</tr>
+										<tr>
+											<td>
+												Pickup Location (Airport)
+											</td>
+											<td>
+												<select name=airport />
+													<option>Select Airport</option>
+													<option>Kuala Lumpur International Airport (KUALA LUMPUR)</option>
+													<option>Kota Kinabalu International Airport (SABAH)</option>
+													<option>Penang International Airport (PULAU PINANG)</option>
+													<option>Kuching International Airport (SARAWAK)</option>
+													<option>Senai International Airport (JOHOR)</option>
+													<option>Langkawi International Airport (LANGKAWI)</option>
+													<option>Sultan Abdul Aziz Shah Airport (SELANGOR)</option>
+													<option>Sultan Ismail Petra Airport (KELANTAN)</option>
+													<option>Sultan Mahmud Airport (TERENGGANU)</option>
+													<option>Sultan Abdul Halim Airport (KEDAH)</option>
+													<option>Sultan Haji Ahmad Shah Airport (PAHANG)</option>
+													<option>Sultan Azlan Shah Airport (PERAK)</option>
+											</td>
+										</tr>
+										<tr>
+											<td colspan=2>
+												&nbsp
+											</td>
+										</tr>
+										<tr>
+											<td>
+												Pick Up Date
+											</td>
+											<td>
+												<input type=date name=startPickup />
+											</td>
+										</tr>
+										<tr>
+											<td colspan=2>
+												&nbsp
+											</td>
+										</tr>
+										<tr>
+											<td>
+												Pick Up Time
+											</td>
+											<td>
+												<select name=pickupTime />
+													<option value=0000 >12.00am</option>
+													<option value=0100 >1.00am</option>
+													<option value=0200 >2.00am</option>
+													<option value=0300 >3.00am</option>
+													<option value=0400 >4.00am</option>
+													<option value=0500 >5.00am</option>
+													<option value=0600 >6.00am</option>
+													<option value=0700 >7.00am</option>
+													<option value=0800 >8.00am</option>
+													<option value=0900 >9.00am</option>
+													<option value=1000 >10.00am</option>
+													<option value=1100 >11.00am</option>
+													<option value=1200 >12.00pm</option>
+													<option value=1300 >1.00pm</option>
+													<option value=1400 >2.00pm</option>
+													<option value=1500 >3.00pm</option>
+													<option value=1600 >4.00pm</option>
+													<option value=1700 >5.00pm</option>
+													<option value=1800 >6.00pm</option>
+													<option value=1900 >7.00pm</option>
+													<option value=2000 >8.00pm</option>
+													<option value=2100 >9.00pm</option>
+													<option value=2200 >10.00pm</option>
+													<option value=2300 >11.00pm</option>
+											</td>
+										</tr>
+										<tr>
+											<td colspan=2>
+												&nbsp
+											</td>
+										</tr>
+										<tr>
+											<td>
+												Drop Off Date
+											</td>
+											<td>
+												<input type=datetime-local name=endPickup />
+											</td>
+										</tr>
+										<tr>
+											<td colspan=2>
+												&nbsp
+											</td>
+										</tr>
+										<tr>
+											<td>
+												Drop off Time
+											</td>
+											<td>
+												<select name=dropoffTime />
+													<option value=0000 >12.00am</option>
+													<option value=0100 >1.00am</option>
+													<option value=0200 >2.00am</option>
+													<option value=0300 >3.00am</option>
+													<option value=0400 >4.00am</option>
+													<option value=0500 >5.00am</option>
+													<option value=0600 >6.00am</option>
+													<option value=0700 >7.00am</option>
+													<option value=0800 >8.00am</option>
+													<option value=0900 >9.00am</option>
+													<option value=1000 >10.00am</option>
+													<option value=1100 >11.00am</option>
+													<option value=1200 >12.00pm</option>
+													<option value=1300 >1.00pm</option>
+													<option value=1400 >2.00pm</option>
+													<option value=1500 >3.00pm</option>
+													<option value=1600 >4.00pm</option>
+													<option value=1700 >5.00pm</option>
+													<option value=1800 >6.00pm</option>
+													<option value=1900 >7.00pm</option>
+													<option value=2000 >8.00pm</option>
+													<option value=2100 >9.00pm</option>
+													<option value=2200 >10.00pm</option>
+													<option value=2300 >11.00pm</option>
+											</td>
+										</tr>
+										<tr>
+											<td colspan=2>
+												&nbsp
+											</td>
+										</tr>
+										<tr>
+											<td>
+												&nbsp
+											</td>
+											<td>
+												<input type=submit value=SEARCH />
+											</td>
+										</tr>
+										<tr>
+											<td colspan=2>
+												*<small><small>Drop Location same as Pick up Location</small></small>
+											</td>
+										</tr>
+									</table>
+								</form>
+					</fieldset>
+				</td>
+				<td>
+					<img src=Image\Promotion2.png /><img src=Image\Promotion3.png />
+				
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
